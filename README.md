@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **jonah.uka@gmail.com**
 
-- 📄 Know about my experiences: You can check [my resume](https://docs.google.com/document/d/1bIZf90KZme8dS04vglgX4-8TCNCpNSxMgI-WjS7e2_8/edit?usp=sharing)
+- 📄 Know about my experiences: You can check [my resume]([https://docs.google.com/document/d/1bIZf90KZme8dS04vglgX4-8TCNCpNSxMgI-WjS7e2_8/edit?usp=sharing](https://drive.google.com/file/d/1kY-88Psnk1iVbs4toPLnIS5dGKY6Fggh/view?usp=sharing))
 
 - ⚡ Fun fact: **I love Anime, music and playing games**
 
