@@ -4,7 +4,7 @@
 <!-- <img alt = Heading src = "https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif?format=750w" align = "center" width = 100%> -->
 <h1 align="center">Hi 👋, I'm Jonah Uka</h1>
 <h3 align="center">A Cloud/DevOps Engineer</h3>
-<img align="right" alt="coding" width = "400" src = https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966>
+<!-- <img align="right" alt="coding" width = "400" src = https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jojo-gith2&label=Profile%20views&color=0e75b6&style=flat" alt="jojo-gith2" /> </p> -->
 
@@ -12,19 +12,19 @@
 <br>
 <p align="left"> <a href="https://twitter.com/the__big__fish" target="blank"><img src="https://img.shields.io/twitter/follow/the__big__fish?logo=twitter&style=for-the-badge" alt="the__big__fish" /></a> </p>
 
-- 🌱 I’m currently learning **AWS Cloud with ALX Africa**
+- 🌱 I’m currently learning **Multi-Cloud Integration**
 
 - 👯 I’m looking to collaborate on **open source projects and hackathons**
 
-- 🤝 I’m looking for help with **internships, and entry-level opportunities.**
+- 🤝 I’m looking for help with **internships, gigs & contracts, and entry-level opportunities.**
 
-- 💬 Ask me about **Python, Cloud Computing, DevOps, Site Reliability, AWS , Azure and Linux**
+- 💬 Ask me about **Python, Cloud Computing, DevOps, Site Reliability, AWS, Azure and Linux**
 
 - 👨🏾 I also write [tech blogs](https://hashnode.com/@jojothebigfish)
 
 - 📫 How to reach me **jonah.uka@gmail.com**
 
-- 📄 Know about my experiences: You can check [my resume]([https://docs.google.com/document/d/1bIZf90KZme8dS04vglgX4-8TCNCpNSxMgI-WjS7e2_8/edit?usp=sharing](https://drive.google.com/file/d/1kY-88Psnk1iVbs4toPLnIS5dGKY6Fggh/view?usp=sharing))
+- 📄 Know about my experiences: You can check [my resume](https://docs.google.com/document/d/1oFTf1h89Oo3bZQgLneqIlqfa8FimqT6N6Y_j2DV6mBw/edit?usp=sharing)
 
 - ⚡ Fun fact: **I love Anime, music and playing games**
 
@@ -38,7 +38,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.linkedin.com/in/jonah-uka-0b1672192/" target="blank"
+  <a href="https://www.linkedin.com/in/jonah-uka/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
