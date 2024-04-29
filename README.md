@@ -199,12 +199,23 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jojo-gith2&show_icons=true&locale=en&layout=compact" alt="jojo-gith2" /></p>
+<!--<p><img align="center" src="https://github-readme-stats-delta-blond.vercel.app/api/top-langs?username=jojo-gith2&show_icons=true&locale=en&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=transparent#gh-dark-mode-only" alt="jojo-gith2" /></p>-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jojo-gith2&show_icons=true&locale=en" alt="jojo-gith2" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jojo-gith2&show_icons=true&locale=en&layout=compact&langs_count=6&theme=transparent#gh-dark-mode-only" alt="jojo-gith2" /></p>
+ -->
+
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jojo-gith2&show_icons=true&locale=en" alt="jojo-gith2" /></p>-->
+<!--<p><img align="center" src="https://github-readme-stats-delta-blond.vercel.app/api?username=jojo-gith2&show_icons=true&include_all_commits=true&locale=en&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-dark-mode-only" alt="jojo-gith2" /></p>-->
+
+<a href="https://github.com/Jojo-GitH2/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-delta-blond.vercel.app/api?username=jojo-gith2&show_icons=true&include_all_commits=true&locale=en&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-delta-blond.vercel.app/api/top-langs?username=jojo-gith2&show_icons=true&layout=compact&locale=en&size_weight=0.5&count_weight=0.5&theme=transparent&langs_count=8&card_width=320" />
+</a>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jojo-gith2&" alt="jojo-gith2" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jojo-gith2&" alt="jojo-gith2" /></p>-->
 
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jojo-gith2&" alt="jojo-gith2" /></p>-->
