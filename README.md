@@ -12,7 +12,7 @@
 <br>
 <p align="left"> <a href="https://twitter.com/the__big__fish" target="blank"><img src="https://img.shields.io/twitter/follow/the__big__fish?logo=twitter&style=for-the-badge" alt="the__big__fish" /></a> </p>
 
-- 🌱 I’m currently learning **Multi-Cloud Integration**
+- 🌱 I’m currently learning **Multi-Cloud Integration and NodeJS**
 
 - 👯 I’m looking to collaborate on **open source projects and hackathons**
 
