@@ -12,13 +12,13 @@
 <br>
 <p align="left"> <a href="https://twitter.com/the__big__fish" target="blank"><img src="https://img.shields.io/twitter/follow/the__big__fish?logo=twitter&style=for-the-badge" alt="the__big__fish" /></a> </p>
 
-- 🌱 I’m currently learning **Multi-Cloud Integration and .NET (C#)**
+- 🌱 I’m currently mastering **.NET 9 and deploying services on AWS/Azure/AWS**
 
-- 👯 I’m looking to collaborate on **open source projects and hackathons**
+- 👯 I’m open to collaborating on **challenging software engineering projects and new opportunities in cloud & DevOps.**
 
-- 🤝 I’m looking for help with **internships, gigs & contracts, and entry-level opportunities.**
+<!--- 🤝 I’m looking for help with **internships, gigs & contracts, and entry-level opportunities.**-->
 
-- 💬 Ask me about **Cloud Computing, DevOps, Site Reliability, AWS, Azure and Linux**
+- 💬 Ask me about **.NET (C#), DevOps, Azure, AWS, and Cloud-Native**
 
 <!--- 👨🏾 I also write [tech blogs](https://hashnode.com/@jojothebigfish)-->
 
@@ -50,7 +50,25 @@
 
 
 <h3 align="left">Languages:</h3>
-<p>
+<p align="left">
+
+
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+     <img
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+       alt="csharp"
+       width="40"
+       height="40"
+     />
+   </a>
+   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+     <img
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+       alt="dotnet"
+       width="40"
+       height="40"
+     />
+   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
